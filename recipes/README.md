@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 10 Minute Recipes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,5 +8,5 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Very basic webpage,
+Very basic webpage,\
 Edit App.js to make more changes for now.
