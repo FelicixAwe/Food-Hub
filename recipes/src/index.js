@@ -1,17 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
 
-class Site extends React.component
-{
-	render()
-	{
-		const siteName = '10 Minute Recipes';
+import App from "./App";
 
-		return( <body>{siteName}</body> );
-	};
-}
+const rootElement = document.getElementById("root");
+const root = createRoot(rootElement);
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Site />);
-
+root.render(
+  <StrictMode>
+    <App />
+  </StrictMode>
+);
