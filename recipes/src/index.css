@@ -5,14 +5,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+<<<<<<< HEAD
+=======
+  border-top: 15px solid orange;
+>>>>>>> origin/main
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+<<<<<<< HEAD
 }
 
 .App {
   font-family: sans-serif;
   text-align: center;
+=======
+>>>>>>> origin/main
 }

@@ -1,0 +1,12 @@
+.Likebutton{
+  padding: 0;
+  border: none;
+  background: none;
+  cursor:pointer;
+  
+}
+
+.LikeIcon{
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: orange;
+}
