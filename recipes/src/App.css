@@ -51,7 +51,6 @@
 .app_recipes{
   margin-top: 24px;
   display: grid;
-  grid-template-columns: repeat(5, 220px);
-  gap: 30px;
+  grid-template-columns: 220px 220px;
   align-items: baseline;
 }
