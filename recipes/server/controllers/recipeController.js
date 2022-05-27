@@ -47,6 +47,7 @@ exports.exploreCategoriesById = async(req, res) => {
 
   try {
     let categoryId = req.params.id;
+    let categoryName = req.params.name;
     const limitNumber = 10;
     const categoryById = await Recipe.find({'category': categoryId}).limit(limitNumber);
     res.render('categories', {title: 'Food Hub - Recipe Categories', categoryById});
@@ -73,6 +74,34 @@ exports.exploreRecipe = async(req, res) => {
     res.status(500).send({message: error.message || "Error Occured"});
   }
 }
+
+
+/**
+ * POST /search
+ * Search
+*/
+
+
+exports.searchRecipe = async(req, res) => {
+
+
+  try {
+    let searchTerm = req.body.searchTerm;
+    let recipe = await Recipe.find({ $text: { $search: searchTerm, $diacriticSensitive: true}});
+    res.render('search', {title: 'Food Hub - Search', recipe});
+
+  } catch (error) {
+    res.status(500).send({message: error.message || "Error Occured"});
+  }
+
+
+
+}
+
+
+
+
+
 
 // async function insertDymmyCategoryData(){
 //
