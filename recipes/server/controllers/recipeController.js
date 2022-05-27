@@ -38,6 +38,25 @@ exports.exploreCategories = async(req, res) => {
 }
 
 
+
+/**
+ * GET /categories/:id
+ * Categories
+*/
+exports.exploreCategoriesById = async(req, res) => {
+
+  try {
+    let categoryId = req.params.id;
+    const limitNumber = 10;
+    const categoryById = await Recipe.find({'category': categoryId}).limit(limitNumber);
+    res.render('categories', {title: 'Food Hub - Recipe Categories', categoryById});
+  } catch (error) {
+    res.status(500).send({message: error.message || "Error Occured"});
+  }
+}
+
+
+
 /**
  * GET /recipe/:id
  * Recipe

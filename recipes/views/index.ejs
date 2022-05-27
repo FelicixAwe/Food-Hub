@@ -62,7 +62,7 @@
 
   <div class="row row-cols-2 row-cols-lg-5 g-2 g-1g-3">
 
-    <% if(food != '') { %>
+    <% if(food.latest != '') { %>
       <% food.latest.forEach(function(recipe, index){ %>
       <a href="/recipe/<%= recipe._id %>" class="col text-center category__link">
         <div class="category__img category__img--large shadow">
@@ -95,7 +95,7 @@
 
   <div class="row row-cols-2 row-cols-lg-5 g-2 g-1g-3">
 
-    <% if(food != '') { %>
+    <% if(food.chinese != '') { %>
       <% food.chinese.forEach(function(recipe, index){ %>
       <a href="/recipe/<%= recipe._id %>" class="col text-center category__link">
         <div class="category__img category__img--large shadow">
@@ -126,7 +126,7 @@
 
   <div class="row row-cols-2 row-cols-lg-5 g-2 g-1g-3">
 
-    <% if(food != '') { %>
+    <% if(food.american != '') { %>
       <% food.american.forEach(function(recipe, index){ %>
       <a href="/recipe/<%= recipe._id %>" class="col text-center category__link">
         <div class="category__img category__img--large shadow">
@@ -158,7 +158,7 @@
 
   <div class="row row-cols-2 row-cols-lg-5 g-2 g-1g-3">
 
-    <% if(food != '') { %>
+    <% if(food.mexican != '') { %>
       <% food.mexican.forEach(function(recipe, index){ %>
       <a href="/recipe/<%= recipe._id %>" class="col text-center category__link">
         <div class="category__img category__img--large shadow">
