@@ -1,4 +1,6 @@
 const mongoose = require('mongoose');
+const Comment = require('./Comment');
+
 
 const recipeSchema = new mongoose.Schema({
   name:{
@@ -22,6 +24,12 @@ const recipeSchema = new mongoose.Schema({
     type: String,
     required: 'This field is required.'
   },
+  comments: [
+    {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'Comment'
+    }
+  ]
 });
 
 

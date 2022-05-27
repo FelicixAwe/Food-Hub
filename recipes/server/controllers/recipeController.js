@@ -1,6 +1,7 @@
 require('../models/database');
 const Category = require('../models/Category');
 const Recipe = require('../models/Recipe');
+const Comment = require('../models/Comment');
 /**
  * GET /
  * Homepage
@@ -50,12 +51,12 @@ exports.exploreCategoriesById = async(req, res) => {
     let categoryName = req.params.name;
     const limitNumber = 10;
     const categoryById = await Recipe.find({'category': categoryId}).limit(limitNumber);
-    res.render('categories', {title: 'Food Hub - Recipe Categories', categoryById});
+    let categoryByName = await Recipe.find({'category': categoryName}).limit(limitNumber);
+    res.render('categories', {title: 'Food Hub - Recipe Categories', categoryById, categoryByName});
   } catch (error) {
     res.status(500).send({message: error.message || "Error Occured"});
   }
 }
-
 
 
 /**
@@ -67,12 +68,46 @@ exports.exploreRecipe = async(req, res) => {
   try {
     let recipeId = req.params.id;
 
-    const recipe = await Recipe.findById(recipeId);
+    const recipe = await Recipe.findById(recipeId).populate('comments');
 
     res.render('recipe', {title: 'Food Hub - Recipe', recipe});
   } catch (error) {
     res.status(500).send({message: error.message || "Error Occured"});
   }
+}
+
+/**
+ * POST /recipe/:id/comment
+ * Recipe Comment
+*/
+
+
+exports.exploreRecipeComment = async(req, res) => {
+  const RecipeId = req.params.id;
+  const newComment = new Comment({
+    name:req.body.name,
+    comment: req.body.comment
+  });
+
+  newComment.save((err, result) =>{
+    if (err) {
+      console.log(err);
+    } else {
+      Recipe.findById(req.params.id, (err, recipe) =>{
+        if (err) {
+          console.log(err);
+        }
+        else{
+          recipe.comments.push(result);
+          recipe.save();
+          // console.log('=========comments==========')
+          // console.log(recipe.comments);
+          res.redirect('/');
+        }
+      })
+    }
+  });
+
 }
 
 
