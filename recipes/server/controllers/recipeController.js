@@ -292,34 +292,25 @@ exports.submitRecipeOnPost = async(req, res) => {
 //   try {
 //     await Recipe.insertMany([
 //       {
-//         "name": "Vegan Chinese noodles",
-//         "description": `Jamie's vegan Chinese noodles recipe is super moreish;
-//         thin rice noodles mixed with oriental mushrooms, garlic and chilli make a delicious vegan feast.
+//       	"name": "Apple Pie",
+//       	"description": `Source: https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/
+//       Image Source: https://commons.wikimedia.org/wiki/File:Apple_pie.jpg
 //
+//       1. Preheat oven to 425 degrees F (220 degrees C). Melt the butter in a saucepan. Stir in flour to form a paste. Add water, white sugar and brown sugar, and bring to a boil. Reduce temperature and let simmer.
+//       2. Place the bottom crust in your pan. Fill with apples, mounded slightly. Cover with a lattice work crust. Gently pour the sugar and butter liquid over the crust. Pour slowly so that it does not run off.
+//       3. Bake 15 minutes in the preheated oven. Reduce the temperature to 350 degrees F (175 degrees C). Continue baking for 35 to 45 minutes, until apples are soft.``,
 //
-//         Source: https://www.jamieoliver.com/recipes/vegetables-recipes/vegan-chinese-noodles/`,
-//         "ingredients":[
-//           "200 g thin rice noodles",
-//           "300 g mixed oriental mushrooms",
-//           "such as oyster, shitake and enoki, cleaned",
-//           "2 cloves of garlic",
-//           "1 fresh red chilli",
-//           "5 cm piece of ginger",
-//           "200 g courgettes",
-//           "½ bunch of fresh coriander",
-//           "6 spring onions",
-//           "groundnut oil , or vegetable oil",
-//           "1 teaspoon cornflour",
-//           "2 tablespoons low-salt soy sauce",
-//           "1 tablespoon agave syrup",
-//           "1 teaspoon seasame oil",
-//           "½ tablespoon rice wine , or dry sherry",
-//           "100 g baby spinach",
-//           "2 limes , to serve",
-//           "sambal , or hot chilli sauce, to serve"
-//         ],
-//         "category": "Chinese",
-//         "image": "vegan-chinese-noodles.jpg",
+//       	"ingredients":[
+//       		"1 recipe pastry for a 9 inch double crust pie",
+//       		"½ cup unsalted butter",
+//       		"3 tablespoons all-purpose flour",
+//       		"¼ cup water",
+//       		"½ cup white sugar",
+//       		"½ cup packed brown sugar",
+//       		"8 Granny Smith apples - peeled, cored and sliced" ],
+//
+//       	"category": "American",
+//       	"image": "apple-pie.jpg"
 //       }
 //     ]);
 //   } catch (error) {
@@ -327,6 +318,5 @@ exports.submitRecipeOnPost = async(req, res) => {
 //   } finally {
 //
 //   }
-// }
-//
+// };
 // insertDymmyRecipeData();
