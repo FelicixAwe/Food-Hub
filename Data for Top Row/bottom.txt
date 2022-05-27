@@ -1,0 +1,660 @@
+{
+	"name": "Apple Pie",
+	"description": "Source: https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/
+Image Source: https://commons.wikimedia.org/wiki/File:Apple_pie.jpg
+
+1. Preheat oven to 425 degrees F (220 degrees C). Melt the butter in a saucepan. Stir in flour to form a paste. Add water, white sugar and brown sugar, and bring to a boil. Reduce temperature and let simmer.
+2. Place the bottom crust in your pan. Fill with apples, mounded slightly. Cover with a lattice work crust. Gently pour the sugar and butter liquid over the crust. Pour slowly so that it does not run off.
+3. Bake 15 minutes in the preheated oven. Reduce the temperature to 350 degrees F (175 degrees C). Continue baking for 35 to 45 minutes, until apples are soft.",
+
+	"ingredients":[
+		"1 recipe pastry for a 9 inch double crust pie",
+		"½ cup unsalted butter",
+		"3 tablespoons all-purpose flour",
+		"¼ cup water",
+		"½ cup white sugar",
+		"½ cup packed brown sugar",
+		"8 Granny Smith apples - peeled, cored and sliced" ],
+
+	"category": "American",
+	"image": "apple-pie.jpg",
+}
+
+{
+        "name": "Cornbread",
+        "description": "Recipe source: https://www.allrecipes.com/recipe/17891/golden-sweet-cornbread/
+Image source: https://commons.wikimedia.org/wiki/File:Masala_Chai.JPG
+
+1. Preheat oven to 400 degrees F (200 degrees C). Spray or lightly grease a 9 inch round cake pan.
+2. In a large bowl, combine flour, cornmeal, sugar, salt and baking powder. Stir in egg, milk and vegetable oil until well combined. Pour batter into prepared pan.
+3. Bake in preheated oven for 20 to 25 minutes, or until a toothpick inserted into the center of the loaf comes out clean.", 
+
+        "ingredients":[
+                "1 cup all-purpose flour", "1 cup yellow cornmeal",
+		"⅔ cup white sugar", "1 teaspoon salt", "3 ½ teaspoons baking powder",
+		"1 egg", "1 cup milk", "⅓ cup vegetable oil" ],
+
+        "category": "American",
+        "image": "cornbread.jpg",
+}
+
+{
+        "name": "Biscuits",
+        "description": "Recipe source: https://cooking.nytimes.com/recipes/1013741-all-purpose-biscuits
+Image source: https://upload.wikimedia.org/wikipedia/commons/7/7b/Biscuits%2C_the_staff_of_life.jpg
+
+1. Preheat oven to 425. Sift flour, baking powder, sugar and salt into a large mixing bowl. Transfer to a food processor. Cut butter into pats and add to flour, then pulse 5 or 6 times until the mixture resembles rough crumbs. (Alternatively, cut butter into flour in the mixing bowl using a fork or a pastry cutter.) Return dough to bowl, add milk and stir with a fork until it forms a rough ball.
+2. Turn the dough out onto a well-floured surface and pat it down into a rough rectangle, about an inch thick. Fold it over and gently pat it down again. Repeat. Cover the dough loosely with a kitchen towel and allow it to rest for 30 minutes.
+3. Gently pat out the dough some more, so that the rectangle is roughly 10 inches by 6 inches. Cut dough into biscuits using a floured glass or biscuit cutter. Do not twist cutter when cutting; this crimps the edges of the biscuit and impedes its rise.
+4. Place biscuits on a cookie sheet and bake until golden brown, approximately 10 to 15 minutes.", 
+
+        "ingredients":[
+                "2 cups all-purpose flour, plus more for dusting",
+		"2 tablespoons baking powder",
+		"1 scant tablespoon sugar",
+		"1 teaspoon salt",
+		"5 tablespoons cold, unsalted butter, preferably European style",
+		"1 cup whole milk" ],
+
+        "category": "American",
+        "image": "biscuits.jpg",
+}
+
+{
+        "name": "Jambalaya",
+        "description": "Recipe source: https://cooking.nytimes.com/recipes/6679-shrimp-jambalaya
+Image Source: https://commons.wikimedia.org/wiki/File:Mmm..._jambalaya.jpg
+
+1. Peel and devein the shrimp. The shells may be used to make a broth (see recipe).
+2. Heat the oil in a kettle or large saucepan with a heavy bottom over medium heat. Add the flour, and cook, stirring constantly, until lightly browned. Do not burn.
+3. Add the onion, green onions, green pepper, celery and garlic. Cook, stirring, until wilted. Add ham and stir. Add the tomatoes, thyme and oregano, and bring to a boil. Stir in the uncooked rice, if desired. Add salt, pepper and shrimp broth. Reduce heat to medium-low, and simmer, uncovered, about 25 minutes; add the shrimp and stir. Cook about 10 minutes longer or until it has thickened, but is still slightly soupy. Serve in bowls with chopped green onions on the side as an optional garnish.", 
+
+        "ingredients":[
+                "2 pounds shrimp in the shell",
+		"2 tablespoons corn, peanut or vegetable oil",
+		"2 tablespoons flour",
+		"1 cup finely chopped onion",
+		"1 cup finely chopped green onions or scallions",
+		"1 cup finely chopped green pepper",
+		"1 cup finely chopped celery",
+		"1 tablespoon finely minced garlic",
+		"1 cup cooked ham cut into 1/2-inch cubes",
+		"2 cups crushed imported tomatoes",
+		"½ teaspoon dried thyme",
+		"1 teaspoon dried crushed oregano",
+		"1 cup uncooked long-grain rice, optional, or serve the dish with Creole rice (see recipe)",
+ 		"Salt to taste if desired",
+ 		"Freshly ground pepper to taste",
+		"5 cups shrimp broth (see recipe) or water",
+		"½ cup finely chopped green onion or scallions, optional, for garnish"
+	],
+
+        "category": "American",
+        "image": "jambalaya.jpg",
+}
+
+{
+        "name": "Milkshake",
+        "description": "Recipe source: https://www.delish.com/cooking/recipe-ideas/a20760804/easy-milkshake-recipe/
+
+1. In a blender, blend together ice cream and milk. 
+2. Pour into a glass and garnish with whipped topping, sprinkles, and a cherry.", 
+
+        "ingredients":[
+                "4 large scoops (about 1 1/2 c.) vanilla ice cream",
+		"1/4 c. milk",
+		"Whipped topping, for garnish",
+		"Sprinkles, for garnish",
+		"Maraschino cherry, for garnish"
+	],
+
+        "category": "American",
+        "image": "milkshake.jpg",
+}
+
+{
+        "name": "Shepherd's Purse Stir-Fry Rice Cake",
+        "description": "Recipe source: https://thewoksoflife.com/shanghai-rice-cake-stir-fry-w-greens/
+
+1. Combine the chicken and marinade ingredients in a bowl and set aside. Prepare the rest of your ingredients.
+2. When you're ready to cook, heat the oil in a wok over high heat. Stir-fry the chicken until opaque. Add the shepherd’s purse (or spinach), salt, white pepper, and sesame oil. Stir-fry for 30 seconds. Add the rice cakes on top of the meat and veg (the rice cakes shouldn't be directly touching the surface of the wok), along with the water or chicken stock.
+3. Cover the wok and let it cook for 2-3 minutes (not too long, or the greens will turn yellow and the rice cakes will be soggy). Once the rice cakes have softened, mix everything together and serve immediately.", 
+
+        "ingredients":[
+                "6 oz. chicken breast (170g, cut into very small, thin strips)",
+		"1 teaspoon cornstarch",
+		"1 teaspoon shaoxing wine",
+		"½ teaspoon sesame oil",
+		"1/8 teaspoon white pepper",
+		"1/4 teaspoon salt",
+		"2 tablespoons oil",
+		"1/3 lb. frozen shepherd’s purse (150g, washed, liquid squeezed out, and finely chopped; can be substituted w/ fresh spinach, finely chopped)",
+		"1/3 teaspoon salt (or to taste)",
+		"1/4 teaspoon white pepper",
+		"1 teaspoon sesame oil",
+		"12 oz. rice cakes (thawed, rinsed)",
+		"½ cup water or chicken stock (120 ml)" ],
+
+        "category": "Chinese",
+        "image": "shepherd-purse-rice-cake.jpg",
+}
+
+{
+        "name": "Ba Bao Fan",
+        "description": "Recipe source: https://redhousespice.com/eight-treasure-rice/
+
+Soak the Rice
+1. Rinse glutinous rice under running water. Put it into a bowl and top with water. Leave to soak overnight. Then drain well and mix with sugar.
+Prepare the toppings
+2. Deseed and slice dried fruits if necessary. If using Jujube (Chinese dates), peanuts, lotus seeds or almonds, soak in water overnight to soften. Other dried fruits and nuts can be used directly without soaking. 
+Assemble the bowl
+3. Evenly coat a bowl with coconut oil (or butter, neutral cooking oil) to prevent sticking.
+4. Spread a layer of mixed dried fruit and nuts over the bottom of the bowl. Design a pattern if you wish.
+5. Lay half of the rice over the dried fruit and nuts. Shape the red bean paste into a flat circle (smaller than the bowl). Place it on top of the rice. Put in the rest of the rice and flatten it with a spoon.
+6. Pour in water just enough to level with the rice (Be very gentle to avoid pushing the rice around).
+Steamed the pudding
+7. Place the pudding bowl into a steamer basket or onto a steamer rack. Fill the wok/pot with water. Leave to steam over medium heat for 50 mins. Don’t forget to check the water level in the wok/pot halfway through in case it dries out.
+Serve the pudding
+8. After steaming, leave to cool for 10 mins or so. Then use a knife or spatula to gently run along the edge of the pudding to help separating. Place a serving plate over the bowl. Flip over then gently remove the bowl.
+9. The rice pudding tastes great both warm and at room temperature. Drizzle some honey when serving if you like a sweeter taste.
+Store and reheat
+10. You can keep the rice pudding in the fridge for up to 3 days or in the freezer for up to 2 months (wrapped tightly with cling film after it cools completely).
+11. Steam for 10 minutes to reheat (defrost beforehand if frozen).",
+
+        "ingredients":[
+                "200 g glutinous rice (aka sticky rice, sweet rice), about 1 cup",
+		"1 tablespoon white sugar, or brown sugar",
+		"3 tablespoon homemade red bean paste, or shop-bought version, see note 1",
+		"1 handful mixed dried fruit and nuts, e.g. jujube (Chinese dates), apricot, cranberry, raisins, walnuts, pumpkin seeds, peanuts, etc.",
+		"½ teaspoon coconut oil, or butter, neutral cooking oil",
+		"Honey, for serving (optional)" ],
+
+        "category": "Chinese",
+        "image": "ba-bao-fan.jpeg",
+}
+
+{
+        "name": "Shrimp Fried Rice",
+        "description": "Recipe source: https://therecipecritic.com/better-than-takeout-shrimp-fried-rice/
+
+1. Preheat a large skillet or wok to medium heat. Add vegetable oil, 1 Tablespoon sesame oil and shrimp to the skillet and salt and pepper. Cook the shrimp for 2-3 minutes or until no longer pink. You're telling me a shrimp fried this rice? Remove with a slotted spoon and set aside.
+2. Add white onion and peas and carrots and fry until tender. Slide the onion, peas and carrots to the side, and pour the beaten eggs onto the other side.
+3. Using a spatula, scramble the eggs. Once cooked, mix the eggs with the vegetable mix.
+4. Add the rice and shrimp to the veggie and egg mixture. Pour the soy sauce and 1 Tablespoons sesame oil on top. Stir and fry the rice and veggie mixture until heated through and combined. Add chopped green onions if desired.",
+
+        "ingredients":[
+                "1 pound large shrimp peeled and deveined",
+		"1 Tablespoon vegetable oil",
+		"2 Tablespoon sesame oil divided",
+		"3 cups cooked rice",
+		"1 small white onion chopped",
+		"1 cup frozen peas and carrots thawed",
+		"2-3 Tablespoons soy sauce more or less to taste",
+		"3 eggs lightly beaten",
+		"2 Tablespoon chopped green onions optional" ],
+
+        "category": "Chinese",
+        "image": "shrimp-fried-rice.jpeg",
+}
+
+{
+        "name": "Shrimp Rice Noodle",
+        "description": "Recipe Source: https://thewoksoflife.com/shrimp-rice-noodle-rolls-cheung-fun/
+
+TO PREPARE THE SHRIMP:
+1. Toss the cleaned shrimp with 2 tablespoons water, 1/2 teaspoon sugar and 1/8 teaspoon baking soda. After the shrimp have been coated, cover and refrigerate for 2 hours.
+2. After 2 hours, rinse the shrimp under a gentle stream of cold running water for 5 minutes to wash away the sugar and baking soda and pat thoroughly dry with a paper towel. This will greatly improve the texture of the shrimp!
+3. Marinate the shrimp with 1/4 teaspoon sesame oil, a pinch of salt, 1/2 teaspoon cornstarch, and 1/4 teaspoon ground white pepper. Cover and return to the refrigerator while you prepare the rest of the ingredients.
+TO MAKE THE SAUCE:
+1. Prepare the sauce by adding all the ingredients to a small saucepan over medium low heat. Heat the sauce until it begins to simmer, and turn off the heat. Cool completely and remove the ginger and scallion. You can store this sauce in the refrigerator for up to 2 weeks.
+TO PREPARE THE RICE NOODLE ROLLS:
+1. Combine the rice flour, mung bean starch, wheat starch, cornstarch, and salt in a large mixing bowl. Add the water and stir for at least three minutes until dry ingredients are well dissolved. Set aside and allow time for any air bubbles to dissipate.
+2. Soak the cotton cloth in water so it’s completely saturated. Prepare a large assembly station by brushing some oil on a clean, smooth surface like a non-porous countertop, a large flat plate, or a smooth cutting board.
+3. Pre-boil water in your steamer with the lid on (more on how to set up a steamer here), and make sure your steamer fits the flat-bottomed pan you will use to steam the rice noodles. I used a 9 x 13 non-stick sheet pan. This recipe makes 2 full sheets of rice noodles in this sized pan (equivalent to almost 3 dim sum orders).
+4. First, place the shrimp in a single layer on a plate, and steam them for 2 minutes. Remove them immediately and set aside.
+5. Now lift the soaking wet cotton cloth out of the water and line the bottom of the pan with it. (Do not wring out the water.) Stir the rice-flour liquid mixture well again before adding just enough to cover the cloth at the bottom of the pan completely. Too much will make the rice noodle too thick. With the water in your steamer boiling, use the plate gripper and carefully lower the pan into the steamer, immediately cover the lid and steam on high for 2 minutes. (MAKE SURE THE PAN IS PERFECTLY LEVEL, or the noodle will be too thick on one side and too thin on the other.)
+6. Then remove the pan from the steamer with the plate gripper and position it next to your assembly station.
+7. Carefully lift the cloth out of the pan, and place (rice noodle side down) onto the oiled surface. Use the dough scraper and carefully scrape the rice noodle sheet off the cotton cloth onto the oiled surface. Scrape and peel off the cotton cloth at the same time. This step must happen quickly while the noodle and cotton cloth are still hot. The noodle might have a small hole here or there––don’t fret. It does not affect the overall end result.
+8. Cut the rice noodle in half crosswise and line up four cooked shrimp along the edge of each piece. Roll the rice sheet using the plastic dough scraper to wrap up the shrimp. At this point, you’ll have two long rolls. Cut each in half, drizzle with the prepared sauce, and eat it while it’s hot.
+9. Rinse the cotton cloth in clean water (no soap or detergent necessary) to remove rice residue before making the next one. These are best when fresh. In this case, we discourage leftovers! Good thing the rice batter is so easy to make!",
+
+        "ingredients":[
+                "8 ounces shrimp (16 total 31/40 size shrimp, peeled and deveined)",
+		"2 tablespoons water",
+		"1/2 teaspoon sugar",
+		"1/8 teaspoon baking soda",
+		"1/4 teaspoon sesame oil",
+		"1/8 teaspoon salt",
+		"1/2 teaspoon cornstarch",
+		"1/4 teaspoon white pepper",
+		"1 scallion (white part only)",
+		"6 slices ginger",
+		"2 ½ tablespoons light soy sauce",
+		"2 teaspoons dark soy sauce",
+		"5 teaspoons sugar",
+		"1/3 cup water",
+		"1 teaspoon oyster sauce",
+		"1 teaspoon oil",
+		"Salt (to taste)",
+		"5 tablespoons rice flour (40g)",
+		"1 tablespoon mung bean starch (9g)",
+		"2 tablespoons wheat starch (18g)",
+		"2 tablespoons cornstarch (18g)",
+		"1/4 teaspoon salt",
+		"1 cup water (235 ml)",
+		"Vegetable or canola oil for brushing" ],
+
+        "category": "Chinese",
+        "image": "shrimp-rice-noodle.jpeg",
+}
+
+{
+        "name": "Chai",
+        "description": "Chai recipe for 2.
+Image source: https://commons.wikimedia.org/wiki/File:Masala_Chai.JPG
+
+1. Add all ingredients to a saucepan and bring to a boil.
+2. Turn off the heat, steep for a minute, and strain.",
+
+        "ingredients":[
+                "1 cardamom pod", "2 cloves",
+                "2 slices of ginger cut 1/8" thick (smashed)", 
+                "1 twist of pepper", "1 cup water", "1 cup milk",
+                "2 tsp black tea", "2 tsp sugar (or to taste)" ],
+
+        "category": "Indian",
+        "image": "chai.jpg",
+}
+
+
+{
+        "name": "Idli",
+        "description": "Recipe source: https://simmertoslimmer.com/how-to-make-soft-idlis/
+
+Soaking 
+1. Wash the rice and urad dal separately until the water runs clean.
+2. Add the methi/fenugreek seeds to the rice and soak it in water for 4-6 hours. Soak the urad dal too for the same amount of time.
+Grinding
+1. Soak a fistful of thick poha (flattened rice) (if using) in water for 5 minutes before grinding rice.
+2. Drain all the water from the urad dal and grind it to a fine paste using spoonfuls of water at a time (approximately 3/4 cup in total).
+3. Grind the rice to a coarse paste with approximately 1 cup of water and then mix both the pastes together in a large bowl and whisk them well.
+4. Add water as needed (approximately another 1/2 cup) to get the batter to a consistency that is neither too thick or thin. If using Blendtec, run the smoothie cycle (approximately 60 seconds) for both idli and urad dal batter.
+5. Fermentation – Keep the batter in a warm place to ferment (see notes). Once the batter has risen, add salt to the batter and whisk the batter to mix it well.
+Steaming
+1. Grease the idli stand with oil and take a ladleful of batter and fill the idli mold.
+2. Add 1/2 cup of water in the idli steamer and let it boil.
+3. Put the idli stand inside and close the lid. Let the steam build for 8-10 minutes before switching off the gas.
+4. If you are using a cooker, use it without a vent and steam it for 10 minutes and then switch the gas off. In both cases, wait until the steam is released (another 5-10 minutes) before you take the idli stand out.
+5. Wait for another 5 minutes and then use a sharp knife to scoop the idlis out.
+6. Serve warm with coconut chutney or red coconut chutney.",
+
+        "ingredients":[
+                "2 cups Ponni boiled rice (idli rice)",
+		"½ cup Urad dal gota",
+		"1 teaspoon methi, fenugreek seeds",
+		"½ cup  thick poha (flattened rice), optional",
+		"1 teaspoon salt",
+		"cold water as needed" ],
+
+        "category": "Indian",
+        "image": "idli.jpeg",
+}
+
+{
+        "name": "Arachuvitta Sambar",
+        "description": "Recipe source: https://food.ndtv.com/recipe-arachu-vitta-sambar-106641
+
+1. Boil the yellow dal in a pressure cooker, mash it and keep aside. Heat 1 tsp of oil in a pan and saute all the dry ingredients for 2-3 mins.
+2.Then, grind them together with some water making a paste. Keep aside. Cook the drumsticks with a pinch of turmeric powder in some water. Remove from fire when soft.
+3.Heat 1 tsp of oil in a pan and saute the onions till they turn golden brown. Add tomato, ground masala and the powder ingredients with some water. Stir well.
+4.Add the drumsticks, tur dal and the tamarind extract. Mix well. Add two cups of water and let it cook for 15-20 min on medium heat.
+5.In another pan heat 2 tbsp oil and add all the seasoning ingredients. Let it simmer till they begin to crackle.
+6.Then mix these seasoning ingredients in the sambar and serve hot.",
+
+        "ingredients":[
+                "2 tomatoes - chopped",
+		"1 cup yellow lentil (tur dal)",
+		"1/2 cup of drumsticks",
+		"1 onion - chopped",
+		"1/2 cup tamarind extract",
+		"A pinch of turmeric powder",
+		"Salt - to taste",
+		"1/2 cup bengal gram (yellow chana dal)",
+		"6 whole red chillies",
+		"3 Tbsp coconut - desiccated",
+		"1 tsp coriander seeds",
+		"1 tsp fenugreek seeds (methi)",
+		"Oil",
+		"1 tsp sambhar powder",
+		"1 tsp red chilli powder",
+		"1/2 tsp turmeric powder",
+		"1 tsp fenugreek (methi)",
+		"2 1/2 tsp urad dal",
+		"Few curry leaves" ],
+
+        "category": "Indian",
+        "image": "arachuvitta-sambar.jpeg",
+}
+
+{
+        "name": "Medhu Vada",
+        "description": "Recipe source: https://food.ndtv.com/recipe-medhu-vada-463917
+Image source: https://www.indianhealthyrecipes.com/garelu-medhu-vadai-recipe/
+
+1.Drain the daal and grind to a smooth paste.
+2.Add salt, asafoetida and the black pepper, and beat well to make it light and fluffy.
+3.Mix in coriander leaves, ginger and the green chillies.
+4.Heat oil till a drop of batter dropped in comes up at once.
+5.Shape the daal mixture into flat rounds, make a hole in the center and fry, first over high heat, then over lowered heat till brown and cooked through.
+6.Lift the vadas out of oil and drain on absorbent paper and serve.",
+
+        "ingredients":[
+                "1 Cup split husked black gram (dhuli urad), soaked for 4-6 hours",
+		"1 tsp salt1/4 tsp asafoetida1/4 tsp powdered black pepper",
+		"1 tbsp coriander leaves, chopped1 tsp ginger, finely chopped",
+		"1/2 tsp green chillies, finely chopped",
+		"Oil (for frying)" ],
+
+        "category": "Indian",
+        "image": "medu-vada.jpeg",
+}
+
+{
+        "name": "Jalebi",
+        "description": "Recipe Source: https://recipes.timesofindia.com/us/recipes/jalebi/rs53099699.cms
+Image source: https://www.indianhealthyrecipes.com/jalebi-recipe/
+
+1.  Prepare the Jalebi batter and let it ferment overnight
+To make this easy Jalebi recipe, mix together all-purpose flour, cornflour and baking soda in a bowl. Now, add ghee and food colour to the above mixture and give a mix. To make a thick batter add hung curd and water. Mix well until it is thick but has a slightly flowing consistency. Keep it aside for 8-10 hours to ferment. This step is important to give that unique "khatta" taste to Jalebi. To make the sugar syrup, heat water in a pan over medium flame. Add sugar and mix until fully dissolved. Simmer the syrup until it attains one string consistency. Add saffron, cardamom powder and rose essence. Stir well to prepare the final sugar syrup. This will be used to soak the jalebis and give them their signature sweetness.
+2. Deep fry the Jalebis
+Now, heat oil in a pan over medium flame for deep frying. Fill the jalebi batter in a muslin cloth and pierce a small hole in the cloth. You can even use a squeezy bottle (ketchup bottles with a small nozzle on top) to make jalebis. Now just squeeze the muslin cloth to make concentric circles. Move from inside to outside to make perfect circles. Fry till jalebis from both the sides until they are crispy in texture and golden in colour.
+3. Soak the Jalebis in sugar syrup and serve
+Soak the jalebis in sugar syrup for 3-4 minutes in warm sugar syrup. Ensure that the sugar syrup is warm and not very hot, as this will make the jalebis limp. Don't soak the jalebis for too long if you wish to retain their crispiness. Now, remove the jalebis from the syrup and place it on a tray lined with butter paper or foil. Decorate with silver foil (optional) and serve the jalebis hot, warm or at room temperature with creamy Rabri. Note: To make the jalebi even more delicious, add a little bit of ghee to the batter, this will give your jalebi that perfect aroma. To the crispy Jalebi, don't forget to ferment the batter overnight.",
+
+        "ingredients":[
+		"3 cup all purpose flour",
+		"2 cup hung curd",
+		"1/2 cup ghee",
+		"3 cup sugar",
+		"5 strand saffron",
+		"1/2 teaspoon powdered green cardamom",
+		"1/2 cup corn flour",
+		"1 1/2 pinch baking soda",
+		"2 cup sunflower oil",
+		"3 cup water",
+		"4 drops rose essence",
+		"1/2 teaspoon edible food color" ],
+
+        "category": "Indian",
+        "image": "jalebi.jpg",
+}
+
+{
+        "name": "Churros",
+        "description": "Recipe Source: https://www.cookingclassy.com/churros/
+
+1. For the coating whisk together 1/2 cup sugar and cinnamon in a shallow dish, set aside.
+2. Heat about 1 1/2 inches vegetable oil in a large pot or deep skillet over medium-high heat to 360 degrees Fahrenheit. While oil is heating prepare batter.
+3. Add water, butter, sugar and salt to a large saucepan, bring to a boil over medium-high heat.
+4. Add flour reduce heat to medium-low and cook and stir constantly with a rubber spatula until mixture comes together and is smooth (a few lumps in it are fine).
+5. Transfer mixture to a large mixing bowl, let cool 5 minutes.
+6. Add vanilla and egg to flour mixture then blend immediately with an electric mixer. Blend until mixture comes together and is smooth (it will separate at first but keep mixing it will come together).
+7. Transfer to a 16-inch piping bag fitted with a rounded star tip (no bigger than 1/2-inch). I recommend using the Ateco 845 or 846.
+8. Carefully pipe mixture into preheated oil, into about 6-inch lengths, cut end with clean scissors.
+9. Let fry until golden brown, about 2 minutes per side. Transfer to paper towels to dry briefly then transfer to cinnamon sugar mixture and roll to coat.
+10. Repeat process with remaining dough (frying no more than 5 at once). Serve warm with chocolate ganache or caramel sauce for dipping if desired.",
+
+        "ingredients":[
+		"1 cup (250ml) water",
+		"1/4 cup (56g) unsalted butter, diced into small cubes",
+		"1 Tbsp (13g) granulated sugar",
+		"1/4 tsp salt",
+		"1 cup (141g) all-purpose flour (scoop and level to measure)",
+		"1 large egg",
+		"1/2 tsp vanilla extract",
+		"Vegetable oil, for frying",
+		"1/2 cup (100g) granulated sugar",
+		"3/4 tsp ground cinnamon" ],
+
+        "category": "Mexico",
+        "image": "churro.jpeg",
+}
+
+{
+        "name": "Horchata",
+        "description": "Recipe Source: https://www.cookingclassy.com/horchata/
+
+1. Add rice, almonds and cinnamon sticks to a high speed blender. Blend about 30 - 60 seconds on high speed or until finely pulverized, stopping occasionally and shaking blender if mixture sticks to the bottom.
+2. Pour in 2 cups water, sugar and vanilla. Blend an additional 30 seconds. If your blender can fit the additional liquid pour in remaining 2 cups water, and milk, otherwise pour into a large enough container to fit along with water and milk.
+3. Cover and chill 8 - 12 hours.
+4. Strain mixture through a fine mesh sieve into a pitcher. Serve with ice if desired, garnishing each serving with ground cinnamon or cinnamon sticks.",
+
+        "ingredients":[
+		"1 1/4 cups (244g) long grain white rice (dry uncooked)",
+		"1/2 cup (50g) sliced almonds",
+		"2 cinnamon sticks (appox 2 1/2-inches each)",
+		"4 cups (945ml) cold water",
+		"1/2 cup (100g) granulated sugar, or more to taste",
+		"1 tsp vanilla extract",
+		"2 cups (475ml) whole milk" ],
+
+        "category": "Mexico",
+        "image": "horchata.jpeg",
+}
+
+{
+        "name": "Mexican Rice",
+        "description": "Recipe Source: https://www.cookingclassy.com/authentic-mexican-rice/
+
+1. Add rice, almonds and cinnamon sticks to a high speed blender. Blend about 30 - 60 seconds on high speed or until finely pulverized, stopping occasionally and shaking blender if mixture sticks to the bottom.
+2. Pour in 2 cups water, sugar and vanilla. Blend an additional 30 seconds. If your blender can fit the additional liquid pour in remaining 2 cups water, and milk, otherwise pour into a large enough container to fit along with water and milk.
+3. Cover and chill 8 - 12 hours.
+4. Strain mixture through a fine mesh sieve into a pitcher. Serve with ice if desired, garnishing each serving with ground cinnamon or cinnamon sticks.",
+
+        "ingredients":[
+		"1 3/4 cups + 2 Tbsp warm water or unsalted chicken broth",
+		"1 medium roma tomato, minced (heaping 1/3 cup)",
+		"2 1/2 tsp Caldo de Tomate",
+		"1/2 tsp onion powder",
+		"1/4 tsp chili powder",
+		"1/4 tsp freshly ground black pepper",
+		"1 Tbsp olive oil or vegetable oil",
+		"1 cup uncooked long grain white rice",
+		"1 large garlic clove, minced (1 1/2 tsp)" ],
+
+        "category": "Mexico",
+        "image": "mexican-rice.jpeg",
+}
+
+{
+        "name": "Quesadillas",
+        "description": "Recipe Source: https://www.cookingclassy.com/quesadillas/
+
+1. Toss chicken with chili powder, cumin, salt and pepper (about 3/4 tsp salt 1/2 tsp pepper).
+2. Heat 2 tsp olive oil in 12-inch non-stick skillet over medium-high heat. Add chicken and cook and turn occasionally until fully cooked through, about 6 minutes. Transfer to a medium mixing bowl.
+3. Heat remaining 2 tsp oil in same skillet. Add bell pepper and red onion and saute until tender, about 6 minutes, while adding in garlic during last 1 minute. Transfer to bowl with chicken, pour in lime and toss.
+4. Brush top side of tortillas with melted butter. Wipe skillet clean with paper towels, heat over medium heat. Toss cheeses together.
+5. Transfer one tortilla buttered side down to skillet. Working quickly sprinkle 1/2 cup cheese evenly over one half side of the tortilla then sprinkle with about 3/4 cup of the chicken mixture. Fold top half over, repeat with a second tortilla (you can fit two in the skillet at once).
+6. Let cook until golden brown on bottom about 2 minutes, then carefully turn to opposite side and continue to cook until golden brown on bottom.
+7. Repeat process with remaining tortillas, cheese and filling. Cut each quesadilla into 2 or 3 wedges. Serve warm with desired toppings.",
+
+        "ingredients":[
+		"1 1/4 lbs boneless skinless chicken breasts, diced into 1/2-inch cubes",
+		"2 tsp chili powder",
+		"1 tsp ground cumin",
+		"Salt and freshly ground black pepper",
+		"4 tsp olive oil, divided",
+		"2 cups chopped bell pepper (about 2, I use red and green)",
+		"2/3 cup chopped red onion",
+		"2 garlic cloves, minced",
+		"1 Tbsp fresh lime juice",
+		"6 (10-inch burrito size) flour tortillas",
+		"3 Tbsp butter, melted",
+		"6 oz. cheddar cheese, shredded (1 1/2 cups)",
+		"6 oz. monterrey jack cheese, shredded (1 1/2 cups)",
+		"Guacamole, sour cream, pico de gallo or salsa, for serving (optional)" ],
+
+        "category": "Mexico",
+        "image": "quesadillas.jpg",
+}
+
+{
+        "name": "Ceviche",
+        "description": "Recipe Source: https://www.cookingclassy.com/ceviche/
+
+1. Bring a pot of water to a boil. Meanwhile, fill up a medium bowl with ice water, set aside.
+2. Add shrimp to boiling water and let cook just until pink and opaque, about 1 minute.
+3. Drain shrimp in a colander then transfer to ice water to cool for a few minutes. Drain well then chop shrimp into small pieces (about 1/2-inch).
+4. In a medium non-reactive bowl (you can use the same bowl that was previously filled with ice water) combine shrimp, lime juice, lemon juice, tomatoes, onion, cilantro, jalapeno pepper and season with salt and pepper to taste.
+5. Transfer to refrigerator and let rest 30 minutes to 1 hour.
+6. Toss in cucumber and avocado and serve (if desired you can strain off some of the juices). It's delicious with tortilla chips or over tostada shells.",
+
+        "ingredients":[
+		"1 1/4 lbs boneless skinless chicken breasts, diced into 1/2-inch cubes",
+		"2 tsp chili powder",
+		"1 tsp ground cumin",
+		"Salt and freshly ground black pepper",
+		"4 tsp olive oil, divided",
+		"2 cups chopped bell pepper (about 2, I use red and green)",
+		"2/3 cup chopped red onion",
+		"2 garlic cloves, minced",
+		"1 Tbsp fresh lime juice",
+		"6 (10-inch burrito size) flour tortillas",
+		"3 Tbsp butter, melted",
+		"6 oz. cheddar cheese, shredded (1 1/2 cups)",
+		"6 oz. monterrey jack cheese, shredded (1 1/2 cups)",
+		"Guacamole, sour cream, pico de gallo or salsa, for serving (optional)" ],
+
+        "category": "Mexico",
+        "image": "ceviche.jpg",
+}
+
+{
+        "name": "Tarte Flambée",
+        "description": "Recipe Source: https://cooking.nytimes.com/recipes/1018508-tarte-flambee
+
+1. If you have a pizza stone, place it on the middle rack of your oven, top with a baking sheet, and heat the oven to 425 degrees. (If you don’t have a stone, just place the baking sheet on the oven rack).
+2. In a medium bowl, combine crème fraîche, fromage blanc, nutmeg, 1/2 teaspoon salt and the pepper. Set aside while you make the dough.
+3. In a separate medium bowl, whisk to combine flour, baking powder and remaining 1/2 teaspoon salt. In a small bowl, whisk to combine olive oil, egg yolk and 1/4 cup water. Add to dry ingredients and use a fork to combine until it creates a shaggy dough.
+4. Turn the dough out onto a floured surface and knead for 1 minute, until the dough is uniform and elastic. (Flour your hands as necessary to keep the dough from sticking.) Roll out to a 12-inch round, then transfer to a parchment-lined baking sheet without a rim (or use an overturned rimmed baking pan).
+5. Spread fromage blanc mixture evenly over the dough, leaving a 1/2-inch border along the edges. Sprinkle bacon and onions over fromage blanc. Slide tart, still on parchment paper, off baking sheet and directly onto baking sheet in oven.
+6. Bake until top is beginning to brown, and sides are golden and crispy, about 20 minutes. Remove from oven and slide off parchment paper to serving platter. Serve warm.",
+
+        "ingredients":[
+		"¼ cup crème fraîche",
+		"⅓ cup fromage blanc",
+		"⅛ teaspoon freshly grated nutmeg",
+		"1 teaspoon kosher salt, more to taste",
+		"Freshly ground black pepper, to taste",
+		"⅞ cup/110 grams all-purpose flour, plus more for dusting",
+		"1 ½ teaspoons baking powder",
+		"1 ½ teaspoons olive oil",
+		"1 large egg yolk",
+		"2 strips/100 grams thick-cut smoked bacon, finely diced (about 2/3 cup)",
+		"⅓ cup finely chopped white onion" ],
+
+        "category": "European",
+        "image": "tarte-flambee.jpg",
+}
+
+{
+        "name": "Gyros",
+        "description": "Recipe Source: https://cooking.nytimes.com/recipes/1018508-tarte-flambee
+
+1. Put pork shoulder on a plate, and place in the freezer for approximately 1 hour, or until it is firm to the touch. Put meat on a cutting board, and using a sharp knife, remove and discard any skin, then slice the meat thinly against the grain, into 1/2-inch slices.
+2. Make the marinade. In a large bowl, whisk together the lemon juice, 1/4 cup olive oil and garlic. Using a box grater, grate the tomato and one of the onions into the marinade, then add 1 tablespoon of the paprika, along with the salt, pepper and oregano leaves. Whisk again, then place the sliced pork into the marinade, toss to combine and cover and refrigerate the meat for at least one hour and up to overnight.
+3. When ready to cook, heat oven to 450. Use the remaining tablespoon of olive oil to grease a rimmed sheet pan. Quarter the remaining onion, add it to the pork and marinade and toss once to combine. Remove the pork and onion from the marinade, and place on the pan, spreading everything evenly across it.
+4. Put the pork in the oven, and roast until it is browned, crisp at the edges and cooked through, about 30-40 minutes. Check the meat at around 20 minutes to see how much liquid is in the pan. If there is a lot, remove the pan, and pour off all but a few tablespoons. Remove the finished pork from the oven, allow to rest for a minute or two, then chop into bits. (To make the pork even crisper, set a large pan over high heat, add a tablespoon of olive oil to the pan, then the sliced pork, and sauté until everything curls tight in the heat.) Scatter the remaining paprika over the top of the meat, and serve with warm pita, sliced cucumbers and onions, tomato, tzatziki sauce, hot sauce, French fries, scattered mint leaves, ketchup, really whatever you like.",
+
+        "ingredients":[
+		"2 ½ pounds pork shoulder",
+		"Juice of 2 lemons",
+		"¼ cup plus 1 tablespoon extra-virgin olive oil",
+		"8 cloves garlic, peeled and minced",
+		"1 medium-size tomato",
+		"2 medium-size yellow onions, peeled",
+		"1 tablespoon plus 1 teaspoon smoked or sweet paprika",
+		"1 tablespoon kosher salt",
+		"2 teaspoons freshly ground black pepper",
+		"1 ½ tablespoons fresh oregano leaves, approximately 5 sprigs" ],
+
+        "category": "European",
+        "image": "gyros.jpeg",
+}
+
+{
+        "name": "Paella",
+        "description": "Recipe Source: https://cooking.nytimes.com/recipes/1020044-vegetable-paella-with-chorizo?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+
+1. Heat oven to 450 degrees. In a 12-inch cast-iron or ovenproof skillet, heat 2 tablespoons oil over medium. Add onion and garlic and cook, stirring occasionally, until softened, about 3 minutes. Add tomato paste and cook, stirring, until lightly caramelized, about 2 minutes. Stir in rice, paprika and remaining 1 tablespoon oil; season with salt and pepper. Cook, stirring, until well combined and rice begins to toast, about 1 minute.
+2. Stir in cauliflower, brussels sprouts, peas, chorizo and broth, season with salt and pepper and bring to a boil over high heat. Transfer to the oven and bake, uncovered and without stirring, until rice is tender and all of the liquid is absorbed, about 20 minutes.
+3. Transfer paella to stovetop and cook over medium heat, without stirring, to crisp up the bottom layer of rice, 2 to 3 minutes. You will hear it crackle; be careful not to burn. Let stand for 5 minutes, then sprinkle with scallions and serve with lemon wedges.", 
+
+        "ingredients":[		
+		"3 tablespoons extra-virgin olive oil",
+		"½ cup finely chopped yellow or white onion (about 1/2 small onion)",
+		"5 garlic cloves, thinly sliced",
+		"2 tablespoons tomato paste",
+		"1 ½ cups medium-grain paella rice, such as Bomba or Calasparra (about 10 ounces)",
+		"½ teaspoon smoked paprika",
+		"Kosher salt and black pepper",
+		"3 ½ cups 1-inch cauliflower florets (about 10 ounces)",
+		"2 ½ cups halved brussels sprouts, quartered if large (about 10 ounces)",
+		"1 cup fresh or frozen peas (about 5 ounces)",
+		"¼ pound/4 ounces cured Spanish chorizo sausage, skin removed, sliced 1/4-inch thick",
+		"3 ½ cups low-sodium chicken broth",
+		"Chopped scallions and lemon wedges, for serving" ],
+
+        "category": "European",
+        "image": "paella.jpeg",
+}
+
+{
+        "name": "Egg Custard Tarts",
+        "description": "Recipe Source: https://cooking.nytimes.com/recipes/1018019-portuguese-egg-custard-tarts?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+
+1. On a lightly floured surface, roll puff pastry into an 18-inch/46-centimeter square. Starting with the edge closest to you, tightly roll the dough into a log. Wrap in plastic wrap and refrigerate until very firm, at least 30 minutes and preferably overnight.
+2. Heat the oven to 500 degrees and arrange the oven racks in the top third and lower third of the oven. Place 2 cookie sheets on the oven racks while the oven heats.
+3. In a medium saucepan, combine sugar, cinnamon stick and 2/3 cup/165 milliliters water. Bring to a boil and cook 1 minute. Turn off heat and let stand until you’re ready to use it.
+4. Roll the firm log of pastry on a lightly floured surface until 1 inch/2 1/2 centimeters in diameter. Trim the ends, then cut the log into 1/2-inch/12-millimeter slices. (You should have 48.)
+5. Using a rolling pin, roll one of the pastry rounds into a 2 1/2-inch/63-millimeter circle. Place pastry into the cavity of a mini-muffin tin, and press to evenly flatten the dough against the bottom and sides of the cavity, extending about 1/16 inch/3 millimeters above the rim of the pan. The dough should be about 1/16 inch/3 millimeters thick, with the bottom a bit thicker than the sides. Repeat with the remaining dough, chilling the cut rounds if dough becomes difficult to roll. Refrigerate crusts until firm, at least 10 minutes.  
+6. While the dough chills, finish the filling: In a small saucepan, heat 1 cup plus 1 tablespoon/255 milliliters milk over medium-low heat until bubbles begin to form around the edges.
+7. In a large bowl, whisk flour with the remaining 5 tablespoons/75 milliliters milk. Continue whisking while adding the hot milk in a slow, steady stream. Discard the cinnamon stick from the sugar syrup and whisk the syrup into the milk mixture in a steady stream. Return to the saucepan and cook over medium-low heat, whisking constantly, until thickened, 5 to 10 minutes.
+8. Place the yolks in a large bowl. Whisking constantly, add hot milk mixture to eggs in a slow stream until fully incorporated. Strain through a fine-mesh sieve. Pour warm filling into pastry shells until they’re three-quarters full.
+9. Transfer tarts to the cookie sheets in oven and bake until the shells are golden brown and crisp, and the custards are golden brown and darkened in spots, 15 to 19 minutes.
+10. Let cool in the pans on a wire rack for 5 minutes, then pop out tarts to continue cooling on the racks for another 5 minutes. Sprinkle with cinnamon and serve warm.",
+
+        "ingredients":[		
+		"14 ounces all-butter puff pastry, thawed if frozen",
+		"1 cup/200 grams granulated sugar",
+		"1 cinnamon stick",
+		"1 cup plus 6 tablespoons/330 milliliters whole milk",
+		"½ cup/65 grams all-purpose flour",
+		"6 large egg yolks",
+		"Ground cinnamon, for serving" ],
+
+        "category": "European",
+        "image": "egg-custard-tarts.jpeg",
+}
+
+{
+        "name": "Focaccia",
+        "description": "Recipe Source: https://cooking.nytimes.com/recipes/1021036-classic-focaccia?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=9
+
+1. In a large bowl, whisk together the flour, kosher salt and yeast. Add the warm water to the flour mixture and stir until all the flour is incorporated and a sticky dough forms. (Expect a very wet dough; no kneading required.) Pour 2 tablespoons oil into a medium bowl. Transfer the dough to the bowl, turn to coat, and cover tightly with a lid or plastic wrap. Place in the refrigerator to rest for at least 24 hours or for up to 2 days.
+2. When you’re ready to bake, brush the inside of a 9-by-13-inch baking sheet with oil. Remove the dough from the refrigerator and transfer to the prepared pan. Using your hands, spread the dough out as much as possible, adding oil to the dough if needed to keep it from sticking. (Don’t worry if the dough doesn’t yet cover the full pan; it will once it relaxes and rises.) Place the dough in a warm place and let rise until about doubled in bulk. The rising time will vary considerably depending on the season. (In the summer, it may take only 20 minutes for the dough to warm up and rise; in the winter, it can take 1 hour or more.) When the dough is ready, it should be room temperature, spread out on the sheet and fluffy.
+3. Heat the oven to 450 degrees. Using your palms, pat down the focaccia to an even thickness of about 1 inch, then, using your fingertips, dimple the entire dough. Drizzle it with the remaining 2 tablespoons olive oil. Sprinkle the entire surface of the focaccia evenly with the sea salt and herbs, if using.
+4. Bake, rotating once front to back, until the top is uniformly golden brown, 20 to 25 minutes. Transfer the focaccia on the baking sheet to a wire rack to cool, then slide out of the pan. Enjoy it hot. (Focaccia deteriorates in quality after the first day. If there is some left over, wrap it tightly in plastic and store at room temperature for another day. Day-old focaccia is delicious in soup.)",
+
+        "ingredients":[		
+		"3 ¼ cups/415 grams all-purpose flour",
+		"1 tablespoon kosher salt",
+		"½ teaspoon active dry yeast",
+		"1 ¾ cups/420 milliliters warm water",
+		"4 tablespoons extra-virgin olive oil, plus more for greasing",
+		"1 ½ teaspoons coarse sea salt",
+		"Whole or chopped fresh rosemary leaves, dried oregano, fennel seeds, herbes de Provence or other dried herbs, for garnish (optional)" ],
+
+        "category": "European",
+        "image": "focaccia.jpeg",
+}
