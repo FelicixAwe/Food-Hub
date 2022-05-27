@@ -13,4 +13,6 @@ From here you can run the following command:
 
 ### `npm start`  
 
-This will run an instance on `localhost:3000` which you can put into a browser.
+This will run an instance on `localhost:3000` which you can put into a browser. \
+
+# Setting up the DB
