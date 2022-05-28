@@ -1,7 +1,6 @@
 const mongoose = require('mongoose');
 const Comment = require('./Comment');
 
-
 const recipeSchema = new mongoose.Schema({
   name:{
     type: String,
@@ -29,7 +28,7 @@ const recipeSchema = new mongoose.Schema({
       type: mongoose.Schema.Types.ObjectId,
       ref: 'Comment'
     }
-  ]
+  ],
 });
 
 
