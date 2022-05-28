@@ -297,7 +297,7 @@
         9. Fill the pot with water again. Increase the heat to medium high heat and cook for 1 hour without the lid.
         10. Remove from the heat. Let it cool down a little bit until you can handle it.
         11. Strain the broth over a large bowl. Discard the strained bits (or you can eat them). You will get about 22 to 24 cups of white milky bone broth.
-        Recipe Source:",
+        Recipe Source: https://www.maangchi.com/recipe/sagol-gukmul",
 
          "ingredients":[
         "6 pounds sliced beef leg bones and/or knuckle bones"
