@@ -250,7 +250,7 @@
 }
 
 {
-        "name": "Spicy cod fillets",
+        "name": "Spicy Cod Fillets",
         "description": "
         1. In a bowl, season the cod evenly with salt and ground black pepper. Let it sit for 30 minutes in the fridge. Pat dry with a paper towel to remove excess water.
         2. Coat the cod pieces with the potato starch.
@@ -284,7 +284,7 @@
 }
 
 {
-        "name": "Beef bone broth",
+        "name": "Beef Bone Broth",
         "description": "
         1. Rinse the bones in cold water to remove blood and bone fragments. Place in a large bowl of cold water and soak for 8 hours or overnight. While soaking, change the water a couple of times.
         2. Drain the bones and put them into a large stock pot. I use my 10 quart stock pot. Add water until the bones are submerged.
