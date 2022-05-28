@@ -16,9 +16,45 @@
       <div class="row">
         <div class="col-12"><h1><%- recipe.name %></h1></div>
         <div class="col-12 mb-4"><i class="bi bi-tag"></i> <%- recipe.category %></div>
-        <div class="form-group pt-2">
-          <button type="btn btn-primary btn-dark btn-lg px-4 me-md-2" class="likeButton">Like</button>
+
+
+        <div class="Votecontainer">
+          <img src="" />
+
+          <div class="voting">
+            <button class="votebtn" id="likebtn">
+              <i class="fa fa-thumbs-up"></i>
+            </button>
+            <input class="voteipt" type="number" id="input1" value="0" >
+
+            <button class="votebtn" id="dislikebtn">
+              <i class="fa fa-thumbs-down"></i>
+            </button>
+            <input class="voteipt" type="number" id="input2" value="0">
+          </div>
+
         </div>
+
+        <!-- likebtn script -->
+
+        <script type="text/javascript">
+          let likebtn = document.querySelector('#likebtn');
+          let dislikebtn = document.querySelector('#dislikebtn');
+          let input1 = document.querySelector('#input1');
+          let input2 = document.querySelector('#input2');
+
+          likebtn.addEventListener('click', () => {
+            input1.value = parseInt(input1.value)+1;
+            input1.style.color = "#12ff00";
+          })
+
+          dislikebtn.addEventListener('click', () => {
+            input2.value = parseInt(input2.value)+1;
+            input2.style.color = "#ff0000";
+          })
+        </script>
+
+
         <div class="col-12" style="white-space: pre-line;">
           <h4>Cooking Instructions</h4>
             <%- recipe.description %>
