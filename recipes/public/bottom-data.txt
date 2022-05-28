@@ -307,7 +307,7 @@
 }
 
 {
-        "name": "Tuna carpaccio - Japanese style",
+        "name": "Tuna Carpaccio - Japanese Style",
         "description": "
         This is a wonderfully simple, almost exotic light meal that fills you with a big smile. Make sure you get really fresh tuna – it needs to be red and almost waxy-looking.
         You can try using different fish, such as salmon, bream or scallops, just make sure they’re all really nice and fresh and smell of nothing but the sea.
@@ -385,7 +385,7 @@
 }
 
 {
-        "name": "Tsukune (Japanese chicken meatballs)",
+        "name": "Tsukune (Japanese Chicken Meatballs)",
         "description": "
         1. Preheat the oven to 180°C and line a tray with baking paper.
         2. Combine sauce ingredients in a bowl.
@@ -418,7 +418,7 @@
 }
 
 {
-        "name": "Japanese garage chicken",
+        "name": "Japanese Garage Chicken",
         "description": "
         1. Combine the soy sauce, sake, ginger and sugar in a glass or ceramic dish. Add the chicken and toss to coat. Cover and place in the fridge for 1 hour to marinate.
         2. Preheat the oven to 200°C.
@@ -448,7 +448,7 @@
 }
 
 {
-        "name": "Mediterranean fish parcels",
+        "name": "Mediterranean Fish Parcels",
         "description": "
         1.Preheat the grill to medium.
         2.In a large bowl, toss the potatoes with 1 tbs olive oil, 1/2 tsp oregano and a generous pinch of salt and pepper.
@@ -474,7 +474,7 @@
 }
 
 {
-        "name": "Margaret Fulton's Mediterranean chicken",
+        "name": "Margaret Fulton's Mediterranean Chicken",
         "description": "
         1.Preheat the oven to 190°C. Wipe the cavity of the chicken with a paper towel. Remove excess fat. Place a little butter, a little salt and pepper, tarragon or parsley stalks and strips of orange or lemon rind inside chicken cavity. Truss with string.
         2.Wipe outside of bird, spread with remaining butter and place breast-side up in a small baking dish, preferably on a rack. Pour 1 cup of water in with 1/2 cup of the stock and place in the oven for 10 minutes, basting once or twice with the liquid underneath. Turn on side and baste well with stock. Continue to cook for a further 20 minutes, basting and adding more stock as necessary. Turn chicken to other side and cook, basting, for a further 20 minutes.
@@ -500,7 +500,7 @@
 }
 
 {
-        "name": "Grilled whiting with Mediterranean bean salad",
+        "name": "Grilled Whiting With Mediterranean Bean Salad",
         "description": "
         1.Combine the mixed and cannellini beans, celery, parsley, onion, vinegar and 1 tablespoon of oil in a large bowl. Season with salt and pepper, then set aside.
         2.Sprinkle the whiting with chilli flakes and season with sea salt. Heat the remaining 1/2 tablespoon of olive oil in a large non-stick frypan over medium-high heat and cook the whiting, in 2 batches, for about 1 1/2 minutes on each side or until cooked through.
@@ -524,7 +524,7 @@
 }
 
 {
-        "name": "Herb-roasted lamb racks",
+        "name": "Herb-roasted Lamb Racks",
         "description": "
         1.To make marinade, place cumin, garlic, lemon zest, herbs and 1/4 cup (60ml) oil in a food processor. Season, then whiz to a paste. Spread over the lamb, then chill for at least 3-4 hours to marinate (remove from the fridge 1 hour prior to cooking).
         2.Preheat oven to 200°C. Brush off most of marinade and discard. Heat remaining 2 tbs oil in a large frypan over medium-high heat. In batches, cook lamb for 4 minutes each side or until browned. Place the bay leaves in a roasting pan and top with lamb racks. Roast for 8 minutes for medium-rare or until cooked to your liking. Rest, loosely covered with foil, for 10 minutes.
@@ -547,7 +547,7 @@
 }
 
 {
-        "name": "Cevapi with ajvar, kipfler potatoes and cabbage",
+        "name": "Cevapi With Ajvar, Kipfler Potatoes And Cabbage",
         "description": "
         1.Combine meat, onion, garlic, paprika, chilli and bicarb, and season. Divide mixture into 27 (approx 45g each) balls. Shape each portion into a 7cm x 2cm sausage and chill for 1 hour to set.
         2.For the ajvar sauce, heat a lightly greased barbecue or chargrill to high. Grill capsicums, turning regularly, for 30 minutes or until the capsicum skin blisters and blackens. Transfer to a bowl, cover with plastic wrap and set aside for 15 minutes to loosen the skin. When cool enough to handle, peel and discard the skin. On the same grill, add the eggplant and grill for 30-35 minutes, turning regularly, until the skin blisters and blackens. When cool enough to handle, peel and discard the skin.
@@ -581,7 +581,7 @@
 }
 
 {
-        "name": "Thai fishcakes",
+        "name": "Thai Fishcakes",
         "description": "
         1.Whiz fish in a food processor until coarsely minced. Transfer to a bowl with green curry paste, beans, coriander leaves, egg, soy sauce, lime juice and rice flour. Combine well.
         2.Using damp hands, take 1 heaped tablespoons of the mixture for each fishcake and shape into 5cm patties. Heat 1cm sunflower oil in a frypan over medium-high heat. In batches, cook fishcakes for 2 minutes each side or until golden. Drain on paper towel and keep warm in a low oven while you cook the remaining cakes.
@@ -605,7 +605,7 @@
 }
 
 {
-        "name": "Thai-spiced grilled mackerel",
+        "name": "Thai-Spiced Grilled Mackerel",
         "description": "
         1.Preheat the grill to high. Lightly oil a large baking tray.
         2.Wash the fish and pat dry with paper towel. In a bowl, combine the red curry paste, sugar, coconut milk, sea salt and pepper.
@@ -630,7 +630,7 @@
 }
 
 {
-        "name": "Thai chicken khao soi (coconut curry noodle soup)",
+        "name": "Thai Chicken Khao Soi (Coconut Curry Noodle Soup)",
         "description": "
         1.Place chillies, eschalot, curry powder, turmeric, garlic, lemongrass, coriander seeds, cardamom seed, coriander root and stem, and 2 tbs oil in a food processor and whiz to a paste.
         2.Heat remaining 1 tbs oil in a large non-stick stockpot over medium-low heat and add the spice paste. Cook, stirring, for 8-10 minutes until lightly caramelised. Add chicken stock, kaffir lime leaves and coconut cream, and bring to a simmer. Add chicken and simmer for 35 minutes or until chicken has cooked through and sauce is rich. Remove chicken and reduce broth for 10 minutes. Season with fish sauce, lime juice and sugar.
@@ -666,7 +666,7 @@
 }
 
 {
-        "name": "Thai corn fritters",
+        "name": "Thai Corn Fritters",
         "description": "
         1.Place the eggs, flour, garlic, caster sugar, fish sauce, half the corn kernels and half a teaspoon each of sea salt and freshly ground black pepper in a food processor. Process to a puree.
         2.Add the chopped spring onions and the remaining corn kernels and stir well to combine. Heat the oil in a non-stick frypan over medium-high heat.
@@ -690,7 +690,7 @@
 }
 
 {
-        "name": "Thai chicken and coconut soup",
+        "name": "Thai Chicken And Coconut Soup",
         "description": "
         1.Bruise the lemongrass stems with the back of a knife and cut each one in half. Halve the mushrooms, or slice if large. Cut the chicken breast fillets in half lengthways, then thinly slice against the grain.
         2.In a saucepan, bring the chicken stock, lemongrass, ginger, chilli and caster sugar to a gentle simmer over medium-high heat. Add the chicken, mushrooms and coconut milk.
@@ -716,7 +716,7 @@
 }
 
 {
-        "name": "Vietnamese crystal veg, prawn and mango rolls",
+        "name": "Vietnamese Crystal Veg, Prawn and Mango Rolls",
         "description": "
         1.Soak the noodles in boiling water for 3-4 minutes, then drain and rinse under cold water. Set aside.
         2.For the chilli and lime dipping sauce, combine all ingredients in a bowl, stirring until the sugar dissolves.
@@ -748,7 +748,7 @@
 }
 
 {
-        "name": "Vietnamese prawn and glass noodle salad",
+        "name": "Vietnamese Prawn and Glass Noodle Salad",
         "description": "
         1.Place the noodles in a heatproof bowl and cover with boiling water. Leave for about 10 minutes. Drain and set aside.
         2.Meanwhile, heat the oil in a frypan over medium-high heat. Add the prawns and cook for about 2 minutes on either side until cooked through. Remove from the pan and set aside.
@@ -774,7 +774,7 @@
 }
 
 {
-        "name": "Vietnamese meatball lettuce wraps",
+        "name": "Vietnamese Meatball Lettuce Wraps",
         "description": "
         1.Squeeze the sausage meat from its casings and roll into walnut-sized balls. Heat oil in a deep frypan over medium heat and cook the meatballs, turning, for 5-6 minutes until golden and cooked through. Add fish sauce, soy sauce, honey and 1 tbs water to the pan and stir to coat, scraping the bottom of the pan, then set aside.
         2.Divide carrot, cucumber and onion among lettuce leaves, then top with meatballs, peanuts and chilli. Drizzle over dipping sauce and pan juices to serve.
@@ -799,7 +799,7 @@
 }
 
 {
-        "name": "Vietnamese noodles with pork and herbs",
+        "name": "Vietnamese Noodles With Pork and Herbs",
         "description": "
         1.For dressing, heat oil in a small frying pan over medium-low heat, add chilli, garlic and ginger and cook for 3-4 minutes until fragrant. Add peanut butter, peanuts and sugar. Cook for 2 minutes. Add fish sauce, lime juice and ¼ cup (60ml) water. Bring to a simmer, then set aside to cool.
         2.Squeeze sausage meat from casings and form teaspoonfuls into small meatballs
@@ -834,7 +834,7 @@
 }
 
 {
-        "name": "Tuna tataki with ponzu",
+        "name": "Tuna Tataki with Ponzu",
         "description": "
         1.For the ponzu dressing, place ingredients in a bowl and stir to combine. Set aside.
         2.Preheat a large barbecue plate or non- stick frypan over high heat. Drizzle tuna with 1 tbs oil and season. Sear tuna, turning frequently, for 3-4 minutes until browned all over but still rare. Stand for 10 minutes then thinly slice and arrange on plates.
