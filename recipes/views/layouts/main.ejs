@@ -28,12 +28,37 @@
     <div class="container-xxl px-md-5 bg-white shadow-lg">
       <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
       <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
-        <img src="/img/logo.svg" width="229" height="68" alt="Cooking Blog - Made with Node.js" >
+        <img src="/img/logo.svg" width="229" height="68" alt="Food Hub - Made with Node.js" >
       </a>
 
       <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
         <li><a href="/" class="nav-link px-2 link-dark">Home</a></li>
         <li><a href="/submit-recipe" class="nav-link px-2 link-dark">Submit</a></li>
+
+      <div class="dropdown">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <%if(!user){ %>
+              Account
+            <% }else{ %>
+              <%=user.username %>
+            <% } %>
+          </a>
+            <ul class="dropdown-menu" aria-lebelledby="navbarDropdown">
+              <%if(!user){ %>
+              <li><a href="/register" class="dropdown-item">Register</a></li>
+              <li><a href="/login" class="dropdown-item">Login</a></li>
+              <% }else{ %>
+              <li><a href="/logout" class="dropdown-item">Logout</a></li>
+                <% } %>
+            </ul>
+
+        </li>
+      </div>
+
+
+
+
       </ul>
 
       <div class="col-md-3 text-end">
@@ -41,7 +66,10 @@
           <input type="search" name="searchTerm" class="form-control" placeholder="search recipe here..." aria-label="Search">
         </form>
       </div>
+
+
     </header>
+
 
 
 

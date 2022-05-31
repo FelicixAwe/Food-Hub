@@ -2,6 +2,8 @@ require('../models/database');
 const Category = require('../models/Category');
 const Recipe = require('../models/Recipe');
 const Comment = require('../models/Comment');
+const User = require('../models/User');
+const passport = require('passport');
 /**
  * GET /
  * Homepage
@@ -21,6 +23,77 @@ exports.homepage = async(req, res) => {
     res.status(500).send({message: error.message || "Error Occured"});
   }
 }
+
+/**
+ * GET /register
+ * Register
+*/
+exports.exploreRegister = async (req, res) => {
+  res.render('register', {title: 'Food Hub - Register'});
+}
+
+
+/**
+ * POST /user register
+ * User Register
+*/
+exports.userRegister = async (req, res) => {
+  User.register({username:req.body.username}, req.body.password, (err, user) => {
+    if(err){
+      console.log(err);
+    }else{
+      passport.authenticate('local')(req, res, function(){
+        console.log('========user registered=========')
+        res.redirect('/');
+      })
+    }
+  })
+
+}
+
+/**
+ * GET /user login
+ * User Login
+*/
+exports.exploreLogin = async (req, res) => {
+  res.render('login', {title: 'Food Hub - Log in'});
+}
+
+
+
+
+/**
+ * POST /user login
+ * User Login
+*/
+exports.userLogin = async (req, res) => {
+    const user = new User({
+      username: req.body.username,
+      password: req.body.password
+    });
+    req.login(user, function(err, success){
+      if (err) {
+        console.log(err);
+        res.redirect('/login')
+      }else{
+        console.log('======== user logged in!');
+        res.redirect('/');
+      }
+    });
+
+}
+
+/**
+ * GET /user logout
+ * User Logout
+*/
+exports.userLogout = async (req, res, next) => {
+  req.logout(function(err) {
+  if (err) { return next(err); }
+  res.redirect('/');
+});
+}
+
 
 
 /**
