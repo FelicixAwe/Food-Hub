@@ -126,7 +126,6 @@ button:hover{
 
 .commentDisplay{
 animation: animated-border 1.5s infinite;
-font-family: Arial;
 font-size: 18px;
 line-height: 30px;
 color: black;
