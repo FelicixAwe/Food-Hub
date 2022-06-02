@@ -174,8 +174,8 @@ exports.exploreRecipeComment = async(req, res) => {
           recipe.comments.push(result);
           recipe.save();
           // console.log('=========comments==========')
-          // console.log(recipe.comments);
-          res.redirect('/');
+          // console.log(recipe.comments
+          res.redirect(req.get('referer'));
         }
       })
     }
