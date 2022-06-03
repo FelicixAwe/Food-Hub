@@ -7,7 +7,7 @@ Foodhub is a recipe sharing web app that lets users find recipes from all over t
 ![Foodhub](recipes/public/img/homepage.png)
 
 # Quick setup instructions
-------------------------
+
 
 In order to start the project, please download and install Node.js first:  
 Download on mac:  https://nodejs.org/en/  
