@@ -22,3 +22,15 @@ To install required packages for our web app.
 
 ### `npm start`
 This will run an instance on `localhost:3000` which you can put into a browser. 
+
+## If npm install fails
+
+If npm install fails, you can install the packages individually using the following commands:
+```
+npm install nodemon
+npm install axios
+npm i passport
+npm install passport-local
+npm install passport-local-mongoose
+npm install express-session
+```
