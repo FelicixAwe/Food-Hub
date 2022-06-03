@@ -23,6 +23,11 @@ To install required packages for our web app.
 ### `npm start`
 This will run an instance on `localhost:3000` which you can put into a browser. 
 
+# IMPORTANT!!!
+Our web app must be running under a private network connection!  
+Since Mongoose may not be stable under public network connection, data might not be properly read/written using some public network such as UCLA_WEB.
+A private connection such as personal wifi or mobile hotspot is required.
+
 ## If npm install fails
 
 If npm install fails, you can install the packages individually using the following commands:
