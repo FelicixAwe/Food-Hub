@@ -4,6 +4,7 @@
 --------
 Foodhub is a recipe sharing web app!
 
+![Foodhub](recipes/public/img/homepage.png)
 Quick setup instructions
 ------------------------
 
