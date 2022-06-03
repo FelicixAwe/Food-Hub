@@ -2,7 +2,7 @@
 
 ![Foodhub](recipes/public/img/logo.png)
 --------
-Foodhub is a recipe sharing web app!
+Foodhub is a recipe sharing web app that lets users find recipes from all over the world and share recipes of their own. With features like a searchbar, tags on recipes for different cuisines, and even a random recipe button, users can easily find recipes for familiar foods or branch out and try new dishes. Users can interact with recipes they love with likes and comments, as well as post recipes of their own to share with the world.
 
 ![Foodhub](recipes/public/img/homepage.png)
 Quick setup instructions
