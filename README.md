@@ -1,20 +1,23 @@
-# 10-minute-recipes
+# Foodhub
 
-Clone the repository here and enter the `/recipes/` directory. 
+![Foodhub](recipes/public/img/logo.png)
+--------
+Foodhub is a recipe sharing web app!
 
-In order to start the project, please install the following dependencies first by running the command below:
-### `install npm`
+Quick setup instructions
+------------------------
 
-On mac:
-https://nodejs.org/en/
+In order to start the project, please download and install Node.js first:  
+Download on mac:  https://nodejs.org/en/  
+Download on windows: https://nodejs.org/en/download/  
 
-On windows:
-https://nodejs.org/en/download/
 
-### `./installPackages.sh`
+Clone the repository here and enter the `/recipes/` directory.
 
-From here you can run the following command:
 
-### `npm start`  
+### `npm install`
+To install required packages for our web app.
 
+
+### `npm start`
 This will run an instance on `localhost:3000` which you can put into a browser. 

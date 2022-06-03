@@ -64,8 +64,8 @@ button:hover{
 
 .Votecontainer{
   border: none;
-  padding: 20px;
-  width: 350px;
+  padding: 10px;
+  width: 450px;
   text-align: center;
   border-radius: 4px;
   position: relative;
@@ -81,7 +81,7 @@ button:hover{
   }
 
   .voteipt{
-    width: 50px;
+    width: 70px;
     border: none;
     background: none;
     color: #919191;
@@ -91,7 +91,7 @@ button:hover{
   }
 
   .votebtn{
-    color:none;
+    color:forestgreen;
     background: none;
     border:none;
     font-size: 30px;
