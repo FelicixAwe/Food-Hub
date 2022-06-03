@@ -20,24 +20,30 @@
 
         <div class="Votecontainer">
           <img src="" />
+            <form action="/recipe/<%= recipe._id %>/likes" method="POST">
+              <div class="voting">
+                <!-- <button class="votebtn" id="likebtn">
+                  <i class="fa fa-thumbs-up"></i>
+                </button>
+                <input class="voteipt" type="number" id="input1" value="0" > -->
 
-          <div class="voting">
-            <button class="votebtn" id="likebtn">
-              <i class="fa fa-thumbs-up"></i>
-            </button>
-            <input class="voteipt" type="number" id="input1" value="0" >
+                <button class="votebtn" id="dislikebtn">
+                  <i class="fa fa-thumbs-up"></i>
+                </button>
+                <% if(recipe.likes != '') { %>
+                <input class="voteipt" type="number" id="input2" value="<%= recipe.likes %>">
+                <% } else { %>
+                  <input class="voteipt" type="number" id="input2" value="999">
+          <% } %>
+              </div>
+            </form>
 
-            <button class="votebtn" id="dislikebtn">
-              <i class="fa fa-thumbs-down"></i>
-            </button>
-            <input class="voteipt" type="number" id="input2" value="0">
-          </div>
 
         </div>
 
         <!-- likebtn script -->
 
-        <script type="text/javascript">
+        <!-- <script type="text/javascript">
           let likebtn = document.querySelector('#likebtn');
           let dislikebtn = document.querySelector('#dislikebtn');
           let input1 = document.querySelector('#input1');
@@ -52,7 +58,9 @@
             input2.value = parseInt(input2.value)+1;
             input2.style.color = "#ff0000";
           })
-        </script>
+        </script> -->
+
+        <!-- likebtn script end-->
 
 
         <div class="col-12" style="white-space: pre-line;">

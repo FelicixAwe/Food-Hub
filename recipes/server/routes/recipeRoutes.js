@@ -11,6 +11,8 @@ router.get('/', recipeController.homepage);
 router.get('/recipe/:id', recipeController.exploreRecipe);
 router.get('/categories', recipeController.exploreCategories);
 router.get('/categories/:id', recipeController.exploreCategoriesById);
+//Like & Dislike
+router.post('/recipe/:id/likes', recipeController.exploreRecipeLike);
 //Comment
 router.post('/recipe/:id/comments', recipeController.exploreRecipeComment);
 //Register form

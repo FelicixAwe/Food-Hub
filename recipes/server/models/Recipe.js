@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 const Comment = require('./Comment');
+const Like = require('./Like');
 
 const recipeSchema = new mongoose.Schema({
   name:{
@@ -29,6 +30,13 @@ const recipeSchema = new mongoose.Schema({
       ref: 'Comment'
     }
   ],
+  likes: 0
+  // likes: [
+  //   {
+  //     type: mongoose.Schema.Types.ObjectId,
+  //     ref: 'Like'
+  //   }
+  // ],
 });
 
 

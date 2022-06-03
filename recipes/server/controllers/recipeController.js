@@ -3,6 +3,7 @@ const Category = require('../models/Category');
 const Recipe = require('../models/Recipe');
 const Comment = require('../models/Comment');
 const User = require('../models/User');
+const Like = require('../models/Like');
 const passport = require('passport');
 /**
  * GET /
@@ -148,6 +149,51 @@ exports.exploreRecipe = async(req, res) => {
     res.status(500).send({message: error.message || "Error Occured"});
   }
 }
+
+/**
+ * POST /recipe/:id/likes
+ * Recipe Like
+*/
+
+
+exports.exploreRecipeLike = async(req, res) => {
+    try {
+      const result = await Recipe.updateOne({_id: req.params.id}, {
+     $inc: { likes: 1 },
+   });
+   res.redirect(req.get('referer'));
+      // res.n; //Number of documents matched
+      // res.nModified; //Number of documents modified
+    } catch (error) {
+      console.log(error);
+    }
+  // const RecipeId = req.params.id;
+  // const recipe = await Recipe.findById(RecipeId);
+  // const newlike_count = 2;//recipe.likes.Like + 1;
+  // const newLike = new Like({
+  //   Like: newlike_count
+  // });
+  //
+  // newLike.save((err, result) =>{
+  //   if (err) {
+  //     console.log(err);
+  //   } else {
+  //     Recipe.findById(req.params.id, (err, recipe) =>{
+  //       if (err) {
+  //         console.log(err);
+  //       }
+  //       else{
+  //         //recipe.likes.push(result);
+  //         recipe.save();
+  //         res.redirect(req.get('referer'));
+  //       }
+  //     })
+  //   }
+  // });
+
+}
+
+
 
 /**
  * POST /recipe/:id/comment
