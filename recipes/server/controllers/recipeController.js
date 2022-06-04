@@ -241,7 +241,7 @@ exports.searchRecipe = async(req, res) => {
 
   try {
     let searchTerm = req.body.searchTerm;
-    let recipe = await Recipe.find({ $text: { $search: searchTerm, $diacriticSensitive: true}});
+    let recipe = await Recipe.find({ $text: { $search: searchTerm, $diacriticSensitive: true}}).sort({'_id.likes': -1});
     res.render('search', {title: 'Food Hub - Search', recipe});
 
   } catch (error) {
